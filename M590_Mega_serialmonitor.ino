@@ -4,6 +4,7 @@
 // and http://www.tehnic.go.ro
 // rewrite for M590 GPRS module by niq_ro - 13.08.2015, Craiova - Romania, Europe, Earth
 
+
 void setup() {
   // initialize both serial ports:
   Serial.begin(115200);
